@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodykewasuis.github.io/sitemap.xml
